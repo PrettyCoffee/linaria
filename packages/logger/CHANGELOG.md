@@ -1,5 +1,15 @@
 # Change Log
 
+## 4.6.0
+
+### Minor Changes
+
+- 9cb4143d: Refactoring of the 1st stage of transformation. It opens the road to processing wildcard reexports.
+
+### Patch Changes
+
+- 9bb782d0: The improved cache that fixes race conditions which lead to "The expression evaluated to 'undefined'" (fixes #1304 and #1287)
+
 ## 4.5.0
 
 ### Patch Changes

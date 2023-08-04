@@ -1,5 +1,17 @@
 # Change Log
 
+## 4.6.0
+
+### Minor Changes
+
+- 9cb4143d: Refactoring of the 1st stage of transformation. It opens the road to processing wildcard reexports.
+
+### Patch Changes
+
+- Updated dependencies [9cb4143d]
+  - @linaria/webpack4-loader@4.6.0
+  - @linaria/webpack5-loader@4.6.0
+
 ## 4.5.4
 
 ### Patch Changes

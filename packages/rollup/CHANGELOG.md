@@ -1,5 +1,22 @@
 # Change Log
 
+## 4.6.0
+
+### Minor Changes
+
+- 9cb4143d: Refactoring of the 1st stage of transformation. It opens the road to processing wildcard reexports.
+
+### Patch Changes
+
+- Updated dependencies [9cb4143d]
+- Updated dependencies [ae162f46]
+- Updated dependencies [715dc93c]
+- Updated dependencies [9bb782d0]
+  - @linaria/babel-preset@4.6.0
+  - @linaria/logger@4.6.0
+  - @linaria/utils@4.6.0
+  - @linaria/vite@4.6.0
+
 ## 4.5.4
 
 ### Patch Changes

@@ -1,5 +1,27 @@
 # Change Log
 
+## 4.6.0
+
+### Minor Changes
+
+- 9cb4143d: Refactoring of the 1st stage of transformation. It opens the road to processing wildcard reexports.
+
+### Patch Changes
+
+- Updated dependencies [9cb4143d]
+- Updated dependencies [ae162f46]
+- Updated dependencies [715dc93c]
+- Updated dependencies [9bb782d0]
+  - @linaria/babel-preset@4.6.0
+  - @linaria/core@4.6.0
+  - @linaria/extractor@4.6.0
+  - @linaria/react@4.6.0
+  - @linaria/rollup@4.6.0
+  - @linaria/server@4.6.0
+  - @linaria/shaker@4.6.0
+  - @linaria/stylelint@4.6.0
+  - @linaria/webpack4-loader@4.6.0
+
 ## 4.5.4
 
 ### Patch Changes

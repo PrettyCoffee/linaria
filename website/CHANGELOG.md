@@ -1,5 +1,15 @@
 # Change Log
 
+## 4.5.5
+
+### Patch Changes
+
+- Updated dependencies [9cb4143d]
+  - @linaria/atomic@4.6.0
+  - @linaria/core@4.6.0
+  - @linaria/react@4.6.0
+  - @linaria/server@4.6.0
+
 ## 4.5.4
 
 ### Patch Changes

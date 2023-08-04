@@ -1,5 +1,25 @@
 # Change Log
 
+## 4.6.0
+
+### Minor Changes
+
+- 9cb4143d: Refactoring of the 1st stage of transformation. It opens the road to processing wildcard reexports.
+- ae162f46: babelrc should not be used for preeval transformations (fixes #1308)
+
+### Patch Changes
+
+- 715dc93c: feat: support dynamic imports for evaluation
+- 9bb782d0: The improved cache that fixes race conditions which lead to "The expression evaluated to 'undefined'" (fixes #1304 and #1287)
+- Updated dependencies [9cb4143d]
+- Updated dependencies [ae162f46]
+- Updated dependencies [9bb782d0]
+  - @linaria/core@4.6.0
+  - @linaria/logger@4.6.0
+  - @linaria/shaker@4.6.0
+  - @linaria/tags@4.6.0
+  - @linaria/utils@4.6.0
+
 ## 4.5.4
 
 ### Patch Changes

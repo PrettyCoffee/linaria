@@ -1,5 +1,18 @@
 # Change Log
 
+## 4.6.0
+
+### Minor Changes
+
+- 9cb4143d: Refactoring of the 1st stage of transformation. It opens the road to processing wildcard reexports.
+- ae162f46: babelrc should not be used for preeval transformations (fixes #1308)
+
+### Patch Changes
+
+- Updated dependencies [9cb4143d]
+- Updated dependencies [9bb782d0]
+  - @linaria/logger@4.6.0
+
 ## 4.5.3
 
 ### Patch Changes

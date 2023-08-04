@@ -1,5 +1,16 @@
 # Change Log
 
+## 4.6.0
+
+### Minor Changes
+
+- 9cb4143d: Refactoring of the 1st stage of transformation. It opens the road to processing wildcard reexports.
+
+### Patch Changes
+
+- Updated dependencies [9cb4143d]
+  - @linaria/postcss-linaria@4.6.0
+
 ## 4.5.1
 
 ### Patch Changes
